@@ -27,7 +27,7 @@ body {
     font-weight: 700;
 }
 
-.horta, .beneficios {
+cidade, .beneficios {
     padding: 20px;
     text-align: center;
     max-width: 800px; /* Limitar a largura para melhor visualização em telas grandes */
@@ -37,20 +37,19 @@ body {
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1); /* Sombra suave para dar profundidade */
 }
 
-.horta h2, .beneficios h2 {
+.campo cidade h2, .beneficios h2 {
     color: #40c0e0; /* Verde suave para títulos */
     font-size: 28px;
     font-weight: 700;
     margin-bottom: 15px;
 }
 
-.horta p {
+.campo cidade
     text-align: justify;
     line-height: 1.6;
     margin-bottom: 20px;
-}
 
-.imagem-horta {
+}conexao campo cidade{
     width: 250px; /* Tamanho da imagem ajustado para melhor visibilidade */
     border-radius: 5px; /* Bordas arredondadas para a imagem */
     margin-top: 10px;
